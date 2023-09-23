@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **React, Nest.js, C#**
 - 📝 I solve problems on [codewars]([codewars-link] https://www.codewars.com/users/OldSchool1705/badges/large)
 - 📄 Know about my experiences [CV]([cv-link] https://drive.google.com/file/d/1AwEhdfWe8KpzpMiNRKP6NwyXBapJ_-re/view?usp=sharing)
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/artem-zubkov-56b1281a6/), [email](oldschool1705@gmail.com), [telegram]([oldschool1705@gmail.com](https://t.me/oldSchool1705))
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/artem-zubkov-56b1281a6/), [email](oldschool1705@gmail.com), [telegram]([oldschool1705@gmail.com] https://t.me/oldSchool1705)
 
 ---
 
