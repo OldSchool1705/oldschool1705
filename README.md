@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
 ### About me
 - 🌱 I’m currently learning **React, Nest.js, C#**
 - 📝 I solve problems on [codewars](https://www.codewars.com/users/OldSchool1705/badges/large)
