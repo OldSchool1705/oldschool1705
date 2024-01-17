@@ -22,8 +22,8 @@
 
 ### Languages and tools
 
-<img src="/src/js.png" title="js" width="40" height="40"/>&nbsp;
-<img src="/src/typescript.png" title="js" width="40" height="40"/>&nbsp;
+<img src="/src/js.png" title="javaScript" width="40" height="40"/>&nbsp;
+<img src="/src/typescript.png" title="typeScript" width="40" height="40"/>&nbsp;
 <img src="/src/vue.png" title="vue" width="40" height="40"/>&nbsp;
 <img src="/src/react.png" title="react" width="40" height="40"/>&nbsp;
 <img src="/src//nodejs.png" title="node" width="40" height="40"/>&nbsp;
