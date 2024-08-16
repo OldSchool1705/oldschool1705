@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Artem </h1>
-    <h3>Frontend Developer(Vue)</h3>
+    <h3>Frontend Developer(Vue, React)</h3>
 </div>
 
 <div id="socials" align="center">
