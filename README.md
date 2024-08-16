@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I’m currently learning **React, node.js**
 - 📝 I solve problems on [codewars](https://www.codewars.com/users/OldSchool1705/badges/large)
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1nsXR7FaZW8AdnqbKuSOCCjnBJSWfrrWo/view?usp=drive_link)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1nsXR7FaZW8AdnqbKuSOCCjnBJSWfrrWo/view?usp=drive_link](https://drive.google.com/file/d/1Za-8LwzTF2A0F5k40htTkuKpLIbrheF6/view?usp=sharingр))
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/artem-zubkov-56b1281a6/), [email](oldschool1705@gmail.com), [telegram](https://t.me/oldSchool1705)
 
 ---
