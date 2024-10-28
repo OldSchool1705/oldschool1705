@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Artem </h1>
-    <h3>Frontend Engineer (Vue, Nuxt, React, Next)</h3>
+    <h3>Frontend Engineer (Vue, Nuxt, React, Next, Angular, C#)</h3>
 </div>
 
 <div id="socials" align="center">
@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **React, node.js**
+- 🌱 I’m currently learning **Angular, C#**
 - 📝 I solve problems on [codewars](https://www.codewars.com/users/OldSchool1705/badges/large)
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Za-8LwzTF2A0F5k40htTkuKpLIbrheF6/view?usp=sharingр)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/artem-zubkov-56b1281a6/), [email](oldschool1705@gmail.com), [telegram](https://t.me/oldSchool1705)
