@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I’m currently learning **Angular, C#**
 - 📝 I solve problems on [codewars](https://www.codewars.com/users/OldSchool1705/badges/large)
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Za-8LwzTF2A0F5k40htTkuKpLIbrheF6/view?usp=sharingр)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1Za-8LwzTF2A0F5k40htTkuKpLIbrheF6/view?usp=sharingр](https://drive.google.com/file/d/1Fd-35B12fcOeGLQ-Zgebjlc2LiyhSNuE/view?usp=sharing))
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/artem-zubkov-56b1281a6/), [email](oldschool1705@gmail.com), [telegram](https://t.me/oldSchool1705)
 
 ---
