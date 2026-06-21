@@ -14,7 +14,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Angular, C#**
-- 📝 I solve problems on [codewars](https://www.codewars.com/users/OldSchool1705/badges/large)
+- 📝 I solve problems on [leetcode]
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Fd-35B12fcOeGLQ-Zgebjlc2LiyhSNuE/view?usp=sharing)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/artem-zubkov-56b1281a6/), [email](oldschool1705@gmail.com), [telegram](https://t.me/oldSchool1705)
 
